@@ -44,6 +44,10 @@ Hello! My name is Gabriel. I'm an Industrial Engineer currently working as a Dat
 ### Currently Learning
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
+## 📂 Projects
+
+You can find my data projects [here](https://github.com/gabrielquirozdev/projects).
+
 ## 🤝 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gquiroz421)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.quiroz421@gmail.com)
