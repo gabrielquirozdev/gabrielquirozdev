@@ -47,6 +47,10 @@ Hello! My name is Gabriel. I'm an Industrial Engineer currently working as a bac
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
+## 📂 Projects
+
+You can find my projects [here](https://github.com/gabrielquirozdev/projects).
+
 ## 🤝 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gquiroz421)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.quiroz421@gmail.com)
